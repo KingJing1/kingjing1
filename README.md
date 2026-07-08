@@ -1,15 +1,18 @@
-# baobao 👋
+# baobao
 
-**I care about AI — and care about humans more.**
+**I care about AI. I care about humans more.**
 
-I don't come from an engineering background — I direct AI agents
-(Claude Code + Codex) and keep the editorial judgment: what to build,
-what to cut, how users should feel. AI is the new printing press, and
-I build for the people it usually forgets: non-technical knowledge workers.
+For most of history, software belonged to the people who could write it.
+That era just ended. I have never written a line of code by hand, yet
+every repository pinned below is real, shipped software: built by
+directing Claude Code and Codex, shaped by editorial judgment, and made
+for the people the tech world usually forgets, non-technical knowledge
+workers.
 
-I also write long-form deep reads of Dario Amodei's essays and
-Anthropic's research, reaching hundreds of thousands of readers.
+AI is the new printing press. My work is making sure it prints for
+everyone: tools people can install and trust, and long-form writing that
+makes Dario Amodei's essays and Anthropic's research legible to hundreds
+of thousands of readers.
 
-🐦 [X](https://x.com/KingJing001)
-
-> Old enough to know better. Young enough to do it anyway.
+The best use of AI is not producing more noise. It is giving judgment,
+taste, and care a way to ship.
