@@ -11,7 +11,7 @@ workers.
 
 AI is the new printing press. My work is making sure it prints for
 everyone: tools people can install and trust, and long-form writing that
-makes Dario Amodei's essays and Anthropic's research legible to hundreds
+makes Anthropic's research legible to hundreds
 of thousands of readers.
 
 The best use of AI is not producing more noise. It is giving judgment,
